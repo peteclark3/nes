@@ -18,6 +18,7 @@
     "hoek": "5.x.x",
     "iron": "5.x.x",
     "joi": "13.x.x",
+    "query-string": "^6.2.0",
     "teamwork": "3.x.x",
     "ws": "5.x.x"
   },
